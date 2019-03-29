@@ -1,0 +1,174 @@
+/*this is css of page index*/
+
+body
+{
+    position: absolute;
+    border-style: dotted;
+    border-left: 1px;
+    border-right: 1px;
+    border-top: 6px;
+    border-bottom: 1px;
+    border-top-style: solid;
+     
+}
+ 
+ .div-menu-name
+ {
+  float: left;
+  margin-left: 290px;
+  font-size: 30px;
+  font-weight: bold;
+  
+ 
+ }
+ .div-menu-name >span
+ {
+     color: violet;
+     
+    
+ }
+ ul>li>a{
+    text-decoration-line: none;
+     font-weight: bold;
+ }
+  
+ .div-menu-list , ul,li
+ {
+  
+  margin-left: 12px;
+  font-size: 13px;
+     display: inline-block;
+}
+
+      .div-menu-list
+      {
+          
+          margin-right: 180px;
+      }
+
+      /*this is section one of this page*/
+
+ #section-ones
+  {
+      width: 1400px;
+      height:290px;
+      background-image: url(pictures/background.PNG)  /*this image is background of section one */
+   }
+.div-pro
+{
+    height: 230px;
+    text-align: left;
+    max-width: 340px;
+    float: left;
+    margin-left: 330px;
+    
+    
+}
+ .div-in-image,img
+ {
+     height: 270px;
+    
+    max-width:280px;
+    float: left;
+       margin-left: 30px;
+       
+    
+ }
+ .div-pro > p
+ {
+  line-height: 23px;
+     text-align: justify;
+    font-size: 20px;
+ }
+.par-one
+{
+    color: white;
+    background-color: violet;
+    font-size: 25px;
+    line-height: 20px;
+
+}
+ 
+ #section-one
+ { 
+     height: 320px;
+     text-align: center;
+     font-size:20px;
+     font-weight: bold;
+     width: 750px;
+     
+ }
+ 
+  
+#div-section-img > span
+ {
+     
+  float: left;
+font-size: 12px;
+margin-left: 50px;
+    } 
+    
+
+ 
+ 
+.i1{
+    
+    width: 160px;
+    height: 100px;
+}
+.i2{
+    
+    width: 160px;
+    height: 80px;
+}
+.i3{
+    
+    width: 160px;
+    height: 100px;
+}
+.i4{
+    
+    width: 160px;
+    height: 100px;
+}
+.i1,.i2,.i3,.i4{
+    float: left;
+}
+
+.image{
+    width: 180px;
+    height:100px;
+    margin-left:30px;
+}
+
+ 
+ /* this is fouter*/    
+footer
+{
+background-color: black;
+color: white;
+height: 120px;
+font-size: 13px;
+
+}
+footer>.footer-div-one
+{
+    color: darkgrey;
+    margin-left: 180px;
+    float: left;
+    padding: 30px;
+}
+footer > .footer-div-Two
+{
+    color: darkgrey;
+    margin-right: 130px;
+    margin-bottom: 40px;
+    padding: 30px;
+}
+
+
+
+.s1{
+    background-color: aqua;
+}
+ 

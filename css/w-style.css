@@ -1,0 +1,187 @@
+/*This is css of secondportofolia page*/
+body{
+    margin: 0%;
+    padding: 0%;
+    position: relative;
+    }
+ 
+
+    /*this is header*/
+header{
+   height: 60px;
+    width: 80%;
+}
+
+.div-one{
+    padding: 10px;
+    width: 30%;
+    height: 80%;
+    margin-top: 1%;
+    }
+
+.div-two{
+    padding: 10px;
+    width: 65%;
+    height: 50px;;
+    margin-left: 30%;
+   
+
+}
+.div-one,div-two{
+    float: left;
+}
+
+.par-1{
+    color:black;
+    font-weight: 700;
+    line-height: 30px;
+    font-size: 25px;
+}
+.hr-one{
+    
+    margin-top: 5px;
+}
+
+    nav>ul{
+        
+        height:35px;
+        line-height:30px;
+        font-size: 20px;
+        margin-left: 70px;
+        }
+
+        
+        nav>ul>li{
+        list-style:none;
+        float:left;
+        }
+        nav>ul>li>a{
+            text-decoration:none;
+            color: dodgerblue;
+           
+            font-size:17px;
+            padding: 65px;
+            }
+
+  /* this is article*/
+  article{
+               
+        height: 210px;
+        width: 80%;
+            }
+            .par-three{
+               margin-right: 850px;
+               font-size: 22px;
+               color:rgb(161, 153, 153);
+            }
+            .div-three{
+               
+              width: 40%;
+              height: 110%;
+            }
+            .div-four{
+            
+             width:100%;
+             height: 110%;
+             margin-right: 40px;
+            }
+             
+            .div-three,div-four{
+                float: left;
+            }
+            .img1{
+           width: 80%;
+           height: 60%;
+            }
+            .img1-1{
+                width: 55%;
+                height: 110%; 
+                margin-left: 150px;
+                
+            }
+           
+            .d5{
+               width: 30%;
+                height: 140%;
+                
+              }
+              .d6{
+             
+               width:30%;
+               height: 140%;;
+              
+              }
+              .d7{
+             
+                width:30%;
+                height: 140%;;
+                
+              }
+              .d5,.d6,.d7{
+                  float: left;
+                  margin-left: 30px;
+              }
+              .par-two{
+                  text-align: left;
+                  padding: 1%;
+                  line-height: 32px;
+                  font-weight: 400;
+                  font-size: 18px;
+                  color: rgb(161, 153, 153);
+                 
+              }
+
+
+              .btn1{
+                 background-color: royalblue;
+                  border-radius: 20px;
+                  
+                  width: 20%;
+                  height: 20%;
+                  border:0;
+                  
+                  color: white;
+              }
+              .btn2{
+                background-color: rgba(85, 93, 99, 0.137);
+                border-radius: 20px;
+                margin-right: 160px;
+                width: 20%;
+                height: 20%;
+                border:0;
+                color: blue;
+            }
+            .par-5{
+                color: rgb(161, 153, 153);
+                font-size: 12px;
+            }
+
+            .p2{
+                color: royalblue;
+                font-size: 20px;
+            }
+            .d8{
+                height: 100px;
+                width: 90%;
+                margin-top: 580px;
+                 border-bottom: 0;
+                 border-left: 0;
+                 border-top: 1px;
+                 border-right: 0;
+                 border-style:solid ;
+                 border-top-color:rgb(161, 153, 153);
+               
+            }
+            
+          .d8 > p
+          {
+            
+            float: left;
+          }
+          .d8 > ul > li
+          {
+              list-style: none;
+              display: inline;
+              margin-left: 50px;
+              
+          }
